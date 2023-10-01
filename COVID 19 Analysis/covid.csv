@@ -1,4 +1,4 @@
-FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio
+   FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio
 ,,,Afghanistan,2020-11-03 06:00:16,33.93911,67.709953,41633,1541,34342,5750,Afghanistan,106.94778901571993,3.7013907237047534
 ,,,Albania,2020-11-03 06:00:16,41.1533,20.1683,21523,527,11367,9629,Albania,747.897699631663,2.448543418668401
 ,,,Algeria,2020-11-03 06:00:16,28.0339,1.6596,58574,1980,40577,16017,Algeria,133.5749300193384,3.3803393997336704
